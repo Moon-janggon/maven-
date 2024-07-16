@@ -2,7 +2,6 @@ package com.nhnacademy;
 import java.util.Objects;
 import java.util.Random;
 
-import com.sun.tools.javac.util.StringUtils;
 import org.apache.commons.math3.random.RandomDataGenerator;
 
 public class App
